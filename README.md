@@ -1,4 +1,4 @@
-Blackjack game I coded in terminal to work on inheritance in Java. To demo the game, run the BlackJack.java file.
+Simple blackjack game I coded in terminal to work on inheritance in Java. To demo the game, run the BlackJack.java file.
 
 
 
